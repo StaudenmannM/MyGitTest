@@ -3,4 +3,6 @@
 echo "Hello world";
 
 echo "but a really useful text"
+
+// another test
 ?>
